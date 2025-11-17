@@ -48,7 +48,7 @@ This GitHub organization contains all the core repositories that power Sound Doc
 
 The flagship cross-platform client for Sound Doctrine Online.
 
-> 📍 See full README: [sdo-multiplatform/README.md](https://github.com/sounddoctrine-de/sdo-multiplatform/blob/main/README.md)
+> 📍 See full README: [sdo-multiplatform/README.md](https://github.com/sounddoctrine-online/sdo-multiplatform/blob/main/README.md)
 
 ### Highlights
 - Built using **Kotlin Multiplatform**
