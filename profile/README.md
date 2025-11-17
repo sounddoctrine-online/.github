@@ -28,9 +28,9 @@ This GitHub organization contains all the core repositories that power Sound Doc
 
 | Repository | Description |
 |-----------|-------------|
-| [**sdo-multiplatform**](https://github.com/sounddoctrine-de/sdo-multiplatform) | Kotlin Multiplatform app targeting Android, iOS, Desktop, and Web. |
-| [**sdo-keystone**](https://github.com/sounddoctrine-de/sdo-keystone) | Admin content management app powered by Keystone JS. |
-| [**sdo-firebase**](https://github.com/sounddoctrine-de/sdo-firebase) | Firebase configuration repository. |
+| [**sdo-multiplatform**](https://github.com/sounddoctrine-online/sdo-multiplatform) | Kotlin Multiplatform app targeting Android, iOS, Desktop, and Web. |
+| [**sdo-keystone**](https://github.com/sounddoctrine-online/sdo-keystone) | Admin content management app powered by Keystone JS. |
+| [**sdo-firebase**](https://github.com/sounddoctrine-online/sdo-firebase) | Firebase configuration repository. |
 
 <!--
 | `sdo-backend` | (Private/internal) GraphQL backend, authentication, and media APIs. |
@@ -48,7 +48,7 @@ This GitHub organization contains all the core repositories that power Sound Doc
 
 The flagship cross-platform client for Sound Doctrine Online.
 
-> 📍 See full README: [sdo-multiplatform/README.md](https://github.com/sounddoctrine-online/sdo-multiplatform/blob/main/README.md)
+> 📍 See full README: [sdo-multiplatform/README.md]([https://github.com/sounddoctrine-online/sdo-multiplatform/blob/main/README.md](https://github.com/sounddoctrine-online/sdo-multiplatform/blob/main/README.md))
 
 ### Highlights
 - Built using **Kotlin Multiplatform**
